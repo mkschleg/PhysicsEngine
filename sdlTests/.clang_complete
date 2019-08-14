@@ -1,0 +1,4 @@
+-I../source/inc
+-I../lib
+-I/usr/local/include/SDL2
+-I/usr/X11R6/include

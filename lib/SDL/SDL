@@ -1,0 +1,6 @@
+#include "inc/engine.h"
+#include "inc/misc.h"
+#include "inc/renderer.h"
+#include "inc/window.h"
+#include "inc/drawable.h"
+#include "inc/timer.h"
